@@ -1,0 +1,164 @@
+/*FELIPE PARA O SITE PLAYSTATIONBETA */
+
+body{
+background-color:#A4D3EE;
+} 
+
+div{
+  border: solid: 1px;
+}
+
+
+.txt{
+text-align: center;
+  color:#00BFFF;
+
+}
+
+.txt-c{
+text-align: center;
+  color:#FF0000;
+
+}
+.txt-ce{
+text-align: center;
+
+}
+.txt-cn{
+text-align: center;
+  color:#FFA500;
+}
+
+.parte1{
+background-color:#1E90FF;
+text-align: center;
+  color:#FFFAFA;
+}
+.parte2{
+background-color:#6959CD;
+text-align: center;
+  color:#FFFAFA;
+  margee:;
+}
+.parte3{
+background-color:#D02090;
+text-align: center;
+  color:#FFFAFA;
+margee:;
+}
+.parte4{
+background-color:#8B7D7B;
+text-align: center;
+  color:#FFFAFA;
+margee:;
+}
+.roda{
+background-color: #000;
+}
+
+
+
+.equipe1{
+background-color:;
+text-align: center;
+  color:#000;
+  font-weigth: bold;
+}
+
+.equipe2{
+background-color:#828282;
+text-align: center;
+  color:#000;
+  font-weigth: bold;
+  border: #A4D3EE solid 3px;
+}
+
+/*poste*/
+.data{
+background-color: #4682B4;
+text-align: center;
+color:#fff;}
+
+
+dia{
+font-size: 50px;}
+
+.titulo{
+font-size: 50px;
+font-weight: bold;
+color: #000080;
+padding: 12px;}
+
+.escrito{
+font-size: 20px;
+color:#fff;}
+
+.img{
+text-align: center;
+padding: 20px;}
+
+.textcont{
+padding: 10px;
+font-size: 15px;
+text-align: justify;}
+
+
+
+
+/*Felipe Silva
+Playstation beta*/
+
+/*Rodapé*/
+
+
+/*formulario*/
+.img_form{
+text-align: center;
+}
+
+.data{
+background-color:red;
+text-align: center
+color: green;
+}
+.dia{
+font-size: 50px;
+}
+
+.titulo{
+font-size: 50px;
+font-weigth: bold;
+color: red;
+padding: 14px;
+}
+
+.escrito{
+font-size: 20px;
+color: #fff;
+}
+
+.img{
+text-align: center;
+padding: 20px;
+}
+
+.txtcont{
+padding: 10px;
+font-size: 15px;
+text-align: justify;
+}
+
+/*LOGIN*/
+.borda_iden{
+border: double 5px black;
+
+border-radius: 1px;
+}
+
+.footer{
+background-color: #000;
+}
+
+
+
+

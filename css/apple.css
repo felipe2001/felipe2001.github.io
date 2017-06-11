@@ -1,0 +1,59 @@
+/*Erivaldo Bêhh
+applenewera*/
+div{
+border: solid green 1px;
+}
+
+body{
+background-color: #A9A9A9;
+}
+
+
+/*Rodapé*/
+.footer{
+background-color: #000;
+}
+
+/*formulario*/
+.img_form{
+text-align: center;
+}
+
+.data{
+background-color:red;
+text-align: center
+color: green;
+}
+.dia{
+font-size: 50px;
+}
+
+.titulo{
+font-size: 50px;
+font-weigth: bold;
+color: red;
+padding: 14px;
+}
+
+.escrito{
+font-size: 20px;
+color: #fff;
+}
+
+.img{
+text-align: center;
+padding: 20px;
+}
+
+.txtcont{
+padding: 10px;
+font-size: 15px;
+text-align: justify;
+}
+
+/*LOGIN*/
+.borda_iden{
+border: double 5px black;
+
+border-radius: 1px;
+}
